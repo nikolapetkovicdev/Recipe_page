@@ -125,5 +125,6 @@ img {
     .main-container {
         width: 80%; /* Prilagodba širine na mobilnim uređajima */
         margin: 5% auto; /* Prilagodba margina za centriranje */
+        justfy-content: center
     }
 }
