@@ -124,7 +124,7 @@ img {
 /* Prilagodba na mobilnim uređajima */
 @media only screen and (max-width: 767px) {
     .main-container {
-        width: 100%; /* Prilagodba širine na mobilnim uređajima */
-        margin: 0% auto; /* Prilagodba margina za centriranje */
+        width: 100% !important; /* Prilagodba širine na mobilnim uređajima */
+        margin: 0% auto !important; /* Prilagodba margina za centriranje */
     }
 }
