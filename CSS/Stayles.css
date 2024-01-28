@@ -122,7 +122,7 @@ img {
 
 /* Prilagodba na mobilnim uređajima */
 @media only screen and (max-width: 767px) {
-    .container {
+    .main-container {
         width: 80%; /* Prilagodba širine na mobilnim uređajima */
         margin: 10% auto; /* Prilagodba margina za centriranje */
     }
