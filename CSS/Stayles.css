@@ -124,8 +124,7 @@ img {
 /* Prilagodba na mobilnim uređajima */
 @media only screen and (max-width: 375px) {
     .main-container {
-        width: 80%; /* Prilagodba širine na mobilnim uređajima */
-        margin: 5% auto; /* Prilagodba margina za centriranje */
-        justfy-content: center
+        width: 100%; /* Prilagodba širine na mobilnim uređajima */
+        margin: 0% auto; /* Prilagodba margina za centriranje */
     }
 }
