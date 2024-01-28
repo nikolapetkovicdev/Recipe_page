@@ -67,7 +67,7 @@ hr {
 
 .main-container {
     position: relative;
-  /*  margin: 10% auto; */
+    margin: 10% auto;
     padding: 20px;
     width: 450px;
     background-color: hsl(0, 0%, 100%);
