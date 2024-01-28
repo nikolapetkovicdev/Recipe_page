@@ -11,9 +11,10 @@
 
 body {
     position: relative;
-    width: 1440px;
+    max-width: 1440px;
+    margin: 0 auto; /* Dodato za centriranje tela */
     background-color: hsl(30, 18%, 87%);
-    font-family: 'Outfit' , sans-serif;
+    font-family: 'Outfit', sans-serif;
 }
 
 h1 {
