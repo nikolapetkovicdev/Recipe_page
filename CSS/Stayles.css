@@ -124,6 +124,6 @@ img {
 @media only screen and (max-width: 767px) {
     .main-container {
         width: 80%; /* Prilagodba širine na mobilnim uređajima */
-        margin: 10% auto; /* Prilagodba margina za centriranje */
+        margin: 5% auto; /* Prilagodba margina za centriranje */
     }
 }
